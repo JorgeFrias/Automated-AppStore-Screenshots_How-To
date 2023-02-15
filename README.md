@@ -110,11 +110,11 @@ Now we will create a project, an app where the real magic happens, where we crea
     Remember to hide the status bar and navigation bar on the `ContentView`:
 
     ```Swift
-        var body: some View {
-            ...
-        }
-        .statusBar(hidden: true)
-        .persistentSystemOverlays(.hidden)
+    var body: some View {
+        ...
+    }
+    .statusBar(hidden: true)
+    .persistentSystemOverlays(.hidden)
     ```
 
 **That's it!**
@@ -133,4 +133,4 @@ The setup process might be a pain, but it's barely more than doing it on Illustr
 
 Right now each time I update any minor UI element, I can just update the screenshots without doing more work than a couple of commands on the terminal. 
 
-For me this is mind blowing, I hope I can help you get rid of headaches too!
+**For me this is mind blowing, I hope I can help you get rid of headaches too!**
