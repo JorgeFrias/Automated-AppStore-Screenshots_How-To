@@ -1,8 +1,11 @@
 # Automated AppStore Screenshots - How To
 This repo is a guide on how to create beautiful AppStore screenshots fully automated, with a localizable approach, without external tools.
 
-## Motivation
 **I’m building the App Store screenshots for my app, [Pocket Pass Manager](https://apps.apple.com/us/app/pocket-pass-manager/id1563839314), completely with SwiftUI.** And oh boy **it’s the best thing I have ever made.**
+
+![Pocket Pass Manager AppStore Screenshots](img/ppm-scrrenshots-hero.jpg)
+
+## Motivation
 
 **A tweet took me on a rabbit hole for the past week.** A developer was posting their new very impressive screenshots, made with an online free tool. [Here is the tweet in question](https://twitter.com/SebastianRoehl/status/1618174959267840000) (the app looks amazingly good, I may add).
 
